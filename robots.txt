@@ -1,0 +1,11 @@
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /New%20folder/
+Disallow: /assets/Pic/
+
+User-agent: *
+Allow: /
+Disallow: /New%20folder/
+Disallow: /assets/Pic/
+
+Sitemap: https://glc-law.co.uk/sitemap.xml
